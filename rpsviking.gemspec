@@ -11,7 +11,7 @@ Gem::Specification.new do |spec|
 
   spec.summary       = %q{This implements rock paper scissors}
   spec.description   = %q{This is CLI rps implementation}
-  spec.homepage      = "https://github.com/koziscool/project_cli_mastermind.git"
+  spec.homepage      = "https://github.com/koziscool/rpsviking.git"
   spec.license       = "MIT"
 
   # Prevent pushing this gem to RubyGems.org by setting 'allowed_push_host', or

@@ -1,6 +1,7 @@
 require "rpsviking/version"
 
-require "./rpsviking/rockpaperscissors"
+require "rpsviking/rockpaperscissors"
+# require "rpsviking/player"
 
 # game = RockPaperScissors.new
 # game.game
